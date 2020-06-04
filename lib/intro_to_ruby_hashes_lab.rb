@@ -4,8 +4,8 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  new_hash ={ Pokemon: "Pikachu"}
-  new_hash[Pokemon]
+  new_hash ={ pokemon: "Pikachu"}
+  new_hash[pokemon]
 end
 
 def pioneer
